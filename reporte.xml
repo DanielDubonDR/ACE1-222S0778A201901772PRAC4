@@ -1,0 +1,30 @@
+<reporte>
+    <datos>
+        <nombre>Daniel Reginaldo Dubon Rodriguez<nombre>
+        <carnet>201901772<carnet>
+        <curso>Arquitectura de Computadores y Ensambladores 1<curso>
+        <seccion>A<seccion>
+    </datos>
+    <fecha>
+        <dia>05</dia>
+        <mes>10</mes>
+        <anio>2022</anio>
+    </fecha>
+    <tiempo>
+        <hora>21</hora>
+        <minuto>25</minuto>
+        <segundo>03</segundo>
+    </tiempo>
+    <estadisticos>
+        <media>000</media>
+        <mediana></mediana>
+        <moda>000</moda>
+        <pares>000</pares>
+        <impares>000</impares>
+        <fibonacci>000</fibonacci>
+        <lucas>000</lucas>
+    </estadisticos>
+    <operaciones>
+        <oper1>33</oper1>
+    </operaciones>
+</reporte>

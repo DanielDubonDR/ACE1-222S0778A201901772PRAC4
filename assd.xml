@@ -1,0 +1,14 @@
+<calculos>
+    <operacion>
+        <nombre>oper1</nombre>
+        <contenido>8 + 25</contenido>
+    </operacion>
+    <operacion>
+        <nombre>ejemplo2</nombre>
+        <contenido>((12 + (8 potencia 2)) entre 4)</contenido>
+    </operacion>
+    <operacion>
+        <nombre>calculos</nombre>
+        <contenido>((5 mas 9) * 2) + (6*5) - oper1</contenido>
+    </operacion>
+</calculos>
